@@ -30,28 +30,40 @@ An ER Diagram is used to represent relationships between these entities.
 
 🧠 SQL Concepts Used
 CREATE, INSERT, UPDATE, DELETE
+
 Primary Key & Foreign Key constraints
+
 Joins (INNER, LEFT)
+
 Aggregate functions (SUM, COUNT, AVG)
+
 Group By & Having
+
 Subqueries
 
 📊 Key Analysis Performed
 Stock availability tracking
+
 Low stock / reorder level analysis
+
 Sales performance analysis
+
 Product-wise sales summary
 
 🛠️ Tools & Technologies
 MySQL
+
 SQL
-VS Code
+
 GitHub
 
 📁 Project Files
 SQL_FINAL_PROJECT.sql – Database schema and queries
+
 SQL_Project_Report.pdf – Detailed project documentation
+
 ER_Diagram.png – Database ER diagram
+
 README.md – Project overview
 
 ✅ Conclusion
