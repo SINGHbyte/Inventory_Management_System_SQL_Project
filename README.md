@@ -17,9 +17,13 @@ The database is designed using multiple related tables with primary and foreign 
 
 Main Tables:
 Products
+
 Suppliers
+
 Stock
+
 Sales
+
 Purchases
 
 An ER Diagram is used to represent relationships between these entities.
